@@ -1,0 +1,239 @@
+body { 
+    background-color: black;
+    width: 1440px;
+}
+.block {
+   flex-direction: column;
+    justify-content:center;
+
+    display: flex;
+}
+
+.block2 {
+    flex-direction: column;
+     justify-content:center;
+
+     display: flex;
+     margin-top: 280px
+ }
+
+ .block3 {
+        width: 100%;
+        margin-top: 280px
+ }
+
+
+
+.tag {
+    font-family: Atlas Typewriter LC;
+    color: #2E2E2E;
+
+/* бирка */
+font-family: Atlas Typewriter LC;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-left: 60px;
+margin-top: calc(340px - 120px);
+}
+.H1 {
+    color: #FFF;
+
+/* H1 */
+font-family: Atlas Typewriter LC;
+font-size: 100px;
+font-style: italic;
+font-weight: 700;
+line-height: normal;
+margin-left: 60px;
+margin-top: 0px
+}
+.YTP {
+    color: #FFF;
+
+/* УТП */
+font-family: Atlas Typewriter LC;
+font-size: 60px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-left: 60px;
+margin-top: 20px
+}
+
+
+.H2 {
+    color: #FFF;
+
+/* H2 */
+font-family: Atlas Typewriter LC;
+font-size: 60px;
+font-style: italic;
+font-weight: 700;
+line-height: normal;
+margin-left: 60px;
+}
+
+.body1 {
+    color: #FFF;
+
+/* body */
+font-family: Atlas Typewriter LC;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-left: 60px;
+margin-top: 40px;
+}
+
+.divider {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+.glass_large {
+    display: flex;
+    position: absolute;
+    margin-left: 920px;
+    z-index: -20;
+    margin-top: -320px;
+}
+.img1 {
+    padding-left: 60px;
+}   
+
+.img2 {
+    padding-left: 60px;
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+.img3 {
+    display: flex;
+    justify-content: center;
+    margin-top: 180px;
+}
+
+.g1 {
+    margin-top: 440px;
+}
+
+.ots {
+    margin-top: 80px;
+}
+
+.at {
+    display: inline-flex;
+justify-content: center;
+align-items: center;
+gap: 140px;
+margin-top: -220px;
+}
+
+.tag_1 {
+    color: #FFF;
+
+    /* бирка */
+    font-family: Atlas Typewriter LC;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 60px;
+    margin-top: 80px;
+
+}
+
+.footer {
+    background: #171717;
+    width: 100%;
+    justify-content: left;
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+}
+
+.izl {
+    color: #FFF;
+
+font-family: Atlas Typewriter LC;
+font-size: 40px;
+font-style: italic;
+font-weight: 700;
+line-height: normal;
+margin-top: 1%;
+}
+
+.izl1 {
+    color: #3E3E3E;
+font-family: Atlas Typewriter LC;
+font-size: 40px;
+font-style: italic;
+font-weight: 700;
+line-height: normal;
+margin-top: 1%;
+}
+
+.izl2 {
+    color: #3E3E3E;
+
+font-family: Atlas Typewriter LC;
+font-size: 40px;
+font-style: italic;
+font-weight: 700;
+line-height: normal;
+margin-top: 1%;
+}
+
+
+.ul {
+    color: #FFF;
+    font-family: Atlas Typewriter LC;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+
+.text1 {
+    color: #FFF;
+
+font-family: Atlas Typewriter LC;
+font-size: 40px;
+font-style: italic;
+font-weight: 700;
+line-height: normal;
+}
+
+.text2 {
+    color: #3E3E3E;
+
+font-family: Atlas Typewriter LC;
+font-size: 40px;
+font-style: italic;
+font-weight: 700;
+line-height: normal;
+}
+
+.information {
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+    padding: 5%;
+}
+
+.logo {
+    display: flex;
+    justify-content: right;
+    scale: 20px;
+    margin-top: -220px;
+    margin-left: 1090px;
+}
+
+.end { margin-top: 260px;}

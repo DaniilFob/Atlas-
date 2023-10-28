@@ -1,0 +1,87 @@
+@import "reset.css";
+@import "main.css";
+@import "";
+
+
+@font-face {
+    font-family: Atlas Typewriter LC;
+    src:url(../fonts/AtlasTypewriterLC-Black.ttf);
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: Atlas Typewriter LC;
+    src: url(../fonts/AtlasTypewriterLC-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: Atlas Typewriter LC;
+    src: url(../fonts/AtlasTypewriterLC-Medium.ttf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: Atlas Typewriter LC;
+    src: url(../fonts/AtlasTypewriterLC-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: Atlas Typewriter LC;
+    src: url(../fonts/AtlasTypewriterLC-Light.ttf);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: Atlas Typewriter LC;
+    src: url(../fonts/AtlasTypewriterLC-Thin.ttf;);
+    font-weight: 250;
+}
+
+
+
+
+
+
+@font-face {
+    font-family: Atlas Typewriter LC;
+    src: url(../fonts/AtlasTypewriterLC-BlackItalic.ttf);
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family:  Atlas Typewriter LC;
+    src: url(../fonts/AtlasTypewriterLC-BoldItalic.ttf);
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family:  Atlas Typewriter LC;
+    src: url(../fonts/AtlasTypewriterLC-MediumItalic.ttf);
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Atlas Typewriter LC;
+    src: url(../fonts/AtlasTypewriterLC-RegularItalic.ttf);
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family:  Atlas Typewriter LC;
+    src: url(../fonts/AtlasTypewriterLC-LightItalic.ttf);
+    font-weight: 300;
+    font-style: italic;
+} 
+
+@font-face {
+    font-family: Atlas Typewriter LC;
+    src: url(../fonts/AtlasTypewriterLC-ThinItalic.ttf;);
+    font-weight: 250;
+    font-style: italic;
+ }
